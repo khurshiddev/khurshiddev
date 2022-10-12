@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @khurshiddev
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Kotlin language
-- 📫 How to reach me ...
